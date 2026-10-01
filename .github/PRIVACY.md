@@ -1,36 +1,9 @@
-# Privacy & Confidentiality Agreement
+# Repository privacy
 
-**NeuroVerse AI Platform**
+This file is informational; it is not a privacy policy, license, or
+confidentiality agreement. The repository's visibility and access are
+determined by its GitHub settings and permissions.
 
-This repository is PRIVATE and contains CONFIDENTIAL INFORMATION.
-
-## Confidentiality
-
-All materials in this repository are strictly confidential and remain the exclusive property of Domimueller85.
-
-## Non-Disclosure
-
-Anyone with access to this repository agrees NOT to:
-- Disclose information to third parties
-- Share code snippets or screenshots
-- Discuss implementation details
-- Reveal architectural patterns
-- Copy or reproduce any materials
-
-## Permitted Parties
-
-Only the following may access this repository:
-- Domimueller85 (owner)
-- Explicitly authorized contributors (with signed NDA)
-- GitHub Support (if necessary for platform issues)
-
-## Violations
-
-Any breach of confidentiality will result in:
-- Immediate termination of access
-- Legal action for damages
-- Claims for IP theft and trade secret misappropriation
-
----
-
-**By accessing this repository, you acknowledge and accept these terms.**
+Do not include secrets or personal data in issues, pull requests, or commits.
+For a suspected security issue, follow the private reporting guidance in
+[`SECURITY.md`](../SECURITY.md).
