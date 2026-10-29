@@ -1,5 +1,7 @@
 # NeuroVerse AI Platform
 
+**English** | [Deutsch](./README.de.md)
+
 NeuroVerse is a concept for an AI-assisted software development platform. This
 repository currently contains project documentation only; it does not include
 an application implementation, dependency manifests, tests, or deployment
