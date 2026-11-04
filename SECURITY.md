@@ -20,5 +20,12 @@ this repository, use it. Otherwise, contact the repository owner through a
 private channel. Avoid accessing data or systems beyond what is necessary to
 describe the issue.
 
+Preferred channel: the repository's **Security** tab → **Report a
+vulnerability** (available only if the owner has enabled it).
+
+Never commit secrets. The `.gitignore` excludes common key and credential
+files, but this is a safeguard, not a guarantee. If a secret is committed,
+revoke and rotate it immediately; deleting it from history is not enough.
+
 No response time, remediation timeline, or bug bounty is promised by this
 document.
