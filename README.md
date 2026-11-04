@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="NeuroVerse AI Platform banner" width="100%">
+</p>
+
 # NeuroVerse AI Platform
 
 **English** | [Deutsch](./README.de.md)
